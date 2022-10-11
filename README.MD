@@ -7,3 +7,4 @@
     5. Two Sum Problem
     6. Longest Substring Without Repeating Characters
     7. Median of Two Sorted Arrays
+    8. Finding LSA from a binary Tree
