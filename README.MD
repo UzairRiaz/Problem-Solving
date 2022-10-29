@@ -8,3 +8,5 @@
     6. Longest Substring Without Repeating Characters
     7. Median of Two Sorted Arrays
     8. Finding LSA from a binary Tree
+    9. Reverse a Integer
+    10. Reverse K Nodes in a Linked List
