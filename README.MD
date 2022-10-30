@@ -1,4 +1,4 @@
-# Problem:
+# Problems:
 
     1. Spiral Print of a 2D Array with Recursive Approach
     2. Swap two numbers without using third variable
@@ -11,4 +11,4 @@
     9. Reverse a Integer
     10. Reverse K Nodes in a Linked List
     11. Roman to Integer
-    12. Remove Letter for Equalize Frequency
+    12. Remove Letter for Equalize Frequency (unsolved)
