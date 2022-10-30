@@ -69,5 +69,4 @@ l1.add(8);
 l1.add(0)
 l1.add(9)
 
-
-console.log(l1.ReverseKNodes(3))
+l1.ReverseKNodes(3)
