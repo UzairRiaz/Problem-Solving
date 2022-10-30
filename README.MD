@@ -11,4 +11,4 @@
     9. Reverse a Integer
     10. Reverse K Nodes in a Linked List
     11. Roman to Integer
-    12. Remove Letter for Equalize Frequency (unsolved)
+    12. Remove Letter for Equalize Frequency
