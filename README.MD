@@ -14,3 +14,8 @@
     12. Remove Letter for Equalize Frequency
     13. Wildcard Matching
     14. Maximum Subarray
+    15. Permutation in String
+    16. Maximum Water Container
+    17. Group Anagrams
+    18. Keypad mapping
+    19. Divide Two Integers without using division, multiplication, and mod operator
