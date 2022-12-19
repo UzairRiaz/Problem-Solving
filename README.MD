@@ -20,3 +20,8 @@
     18. Keypad mapping
     19. Divide Two Integers without using division, multiplication, and mod operator
     20. Rotting Oranges
+    21. Date Difference
+    22. Generate Parentheses
+    23. Letter Combinations of a Phone Number
+    24. Sum of Two Integers in a Array to a given number
+    25. Product of Array Except Self
