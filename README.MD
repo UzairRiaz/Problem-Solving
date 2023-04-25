@@ -25,5 +25,6 @@
     23. Letter Combinations of a Phone Number
     24. Sum of Two Integers in a Array to a given number
     25. Product of Array Except Self
-    26. Merge Three Sorted Arrays
+    26. Merge Three Sorted Arrays (Optimization in progress)
     27. Set Matrix Zeroes (Inplace)
+    28. Merge K Sorted Arrays (Optimization in progress)
