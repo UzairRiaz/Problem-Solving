@@ -30,3 +30,5 @@
     28. Merge K Sorted Arrays
     29. Count and Say
     30. Debounce Function in JS
+    31. Shortest Bridge
+    32. Square Root of a Number without using sqrt function
