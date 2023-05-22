@@ -32,3 +32,4 @@
     30. Debounce Function in JS
     31. Shortest Bridge
     32. Square Root of a Number without using sqrt function
+    33. Ugly Number
