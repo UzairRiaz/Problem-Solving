@@ -33,3 +33,4 @@
     31. Shortest Bridge
     32. Square Root of a Number without using sqrt function
     33. Ugly Number
+    34. Group By
