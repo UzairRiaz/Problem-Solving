@@ -13,13 +13,11 @@ const matrixToJson = (matrix) => {
     for (let i = 1; i < matrix.length; i++) {
         let obj = {};
         let rec = matrix[i];
-        for (let j = 0; i < rec.length; i++) {
-            console.log(matrix[i][j])
+        for (let j = 0; j < rec.length; j++) {
             obj[matrix[0][j]] = rec[j]
         }
-        console.log(obj)
         json.push(obj);
     }
+    return json;
 }
-
-matrixToJson(matrix);
+console.log(matrixToJson(matrix))
