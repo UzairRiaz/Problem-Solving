@@ -30,3 +30,4 @@ console.timeEnd('Math.sqrt');
 // The Math.sqrt is faster than my function. 😔
 // Maybe I am a bad programmer. 😔
 // Maybe I am failure. 😔 
+// Maybe I should quit programming. 😔
