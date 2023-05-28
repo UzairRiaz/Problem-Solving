@@ -36,3 +36,4 @@
     34. Group By
     35. jsonToMatrix
     36. MatrixTojson
+    37. NumberOf1'sInNestedArray
