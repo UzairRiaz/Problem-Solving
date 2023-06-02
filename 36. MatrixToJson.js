@@ -9,17 +9,17 @@ const matrix = [
 ]
 
 const matrixToJson = (matrix) => {
-    const json = [];
-    for (let i = 1; i < matrix.length; i++) {
+    let result = [];
+    let keys = matrix[0];
+    let values = matrix.slice(1);
+    for (let i = 0; i < values.length; i++) {
         let obj = {};
-        let rec = matrix[i];
-        for (let j = 0; i < rec.length; i++) {
-            console.log(matrix[i][j])
-            obj[matrix[0][j]] = rec[j]
+        for (let j = 0; j < keys.length; j++) {
+            obj[keys[j]] = values[i][j];
         }
-        console.log(obj)
-        json.push(obj);
+        result.push(obj);
     }
+    return result;
 }
 
 matrixToJson(matrix);
