@@ -15,4 +15,20 @@ var printFibonacci = function (n) {
     }
 }
 
-printFibonacci(10);
+// print first 10 fibonacci numbers
+let printFibonacciRecursive = function (total, first = 0, second = 1) {
+    if (total <= 0) {
+        return;
+    }
+    if (first === 0) {
+        console.log(first);
+        console.log(second);
+        total = total - 2;
+    }
+    console.log(first + second);
+    printFibonacciRecursive(total - 1, second, first + second);
+}
+
+console.time('printFibonacciRecursive');
+printFibonacciRecursive(10);
+console.timeEnd('printFibonacciRecursive');
