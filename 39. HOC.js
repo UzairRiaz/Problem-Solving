@@ -31,3 +31,4 @@ const HOC = (...funs) => (a, b) => {
 }
 
 const [finalA, finalB] = HOC(fun1, fun2, fun3, fun4)('a', 'b');
+console.log(finalA, finalB); // a-1-2-3-4 b-1-2-3-4
