@@ -29,6 +29,11 @@ let printFibonacciRecursive = function (total, first = 0, second = 1) {
     printFibonacciRecursive(total - 1, second, first + second);
 }
 
+console.time('printFibonacci');
+printFibonacci(10);
+console.timeEnd('printFibonacci');
+
 console.time('printFibonacciRecursive');
 printFibonacciRecursive(10);
 console.timeEnd('printFibonacciRecursive');
+
