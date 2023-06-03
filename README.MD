@@ -38,3 +38,4 @@
     36. MatrixTojson
     37. NumberOf1'sInNestedArray
     38. Function to check if a number is a power of a given base
+    39. Function that take functions as parameters and executes them with given parameters
