@@ -37,3 +37,4 @@
     35. jsonToMatrix
     36. MatrixTojson
     37. NumberOf1'sInNestedArray
+    38. Function to check if a number is a power of a given base
