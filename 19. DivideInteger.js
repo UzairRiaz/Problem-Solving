@@ -5,7 +5,7 @@ const divide = (dividend, divisor) => {
     let answer = 0;
     dividend = Math.abs(dividend);
     divisor = Math.abs(divisor);
-    while (dividend > divisor) {
+    while (dividend >= divisor) {
         dividend -= divisor
         answer++
     }
