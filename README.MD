@@ -41,3 +41,4 @@
     39. Function that take functions as parameters and executes them with given parameters
     40. Number of Provinces
     41. Snail Traverse
+    42. Split Array into front and back halves
