@@ -42,3 +42,4 @@
     40. Number of Provinces
     41. Snail Traverse
     42. Split Array into front and back halves
+    43. Flatten the given directory structure
