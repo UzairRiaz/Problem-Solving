@@ -44,3 +44,4 @@
     42. Split Array into front and back halves
     43. Flatten the given directory structure
     44. Expect - tobe
+    45. Is Object Empty
