@@ -10,7 +10,7 @@ class Debounce {
 
     call = (...args) => {
         if (this.leading) {
-            // will be called only w
+            // will be called only once
             if (!this.timeoutId) {
                 this.func(...args);
                 this.timeoutId = setTimeout(() => {
