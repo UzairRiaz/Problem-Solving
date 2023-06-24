@@ -45,3 +45,4 @@
     43. Flatten the given directory structure
     44. Expect - tobe
     45. Is Object Empty
+    46. Event Emitter
