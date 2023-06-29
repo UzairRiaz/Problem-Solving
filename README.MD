@@ -47,3 +47,4 @@
     45. Is Object Empty
     46. Event Emitter
     47. WaterTrapped
+    48. Find the first non repeating character in a string
