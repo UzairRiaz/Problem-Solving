@@ -48,3 +48,4 @@
     46. Event Emitter
     47. WaterTrapped
     48. Find the first non repeating character in a string
+    49. Find Greatest Common Denominator
