@@ -51,4 +51,4 @@
     49. Find Greatest Common Denominator
     50. Regex for matching a string that only contains alphanumeric characters
     51. Dijkstra's Algorithm
-    
+    52. Check if Integer is a Palindrome
