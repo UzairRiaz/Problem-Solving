@@ -21,5 +21,4 @@ function isPalindromeInt(dividend) {
 }
 
 
-// Path: 53. PalindromeString.js
 console.log(isPalindromeInt(Integer));
