@@ -52,3 +52,5 @@
     50. Regex for matching a string that only contains alphanumeric characters
     51. Dijkstra's Algorithm
     52. Check if Integer is a Palindrome
+    53. Array Buffer Implementation
+    54. Object Pooling Implementation
