@@ -55,3 +55,4 @@
     53. Array Buffer Implementation
     54. Object Pooling Implementation
     55. Function With Context
+    56. Instance of Implementation
